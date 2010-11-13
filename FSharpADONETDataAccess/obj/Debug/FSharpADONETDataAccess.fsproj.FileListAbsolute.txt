@@ -1,0 +1,6 @@
+C:\git\FSharpADONETDataAccess\FSharpADONETDataAccess\bin\Debug\FSharpADONETDataAccess.XML
+C:\git\FSharpADONETDataAccess\FSharpADONETDataAccess\bin\Debug\FSharpADONETDataAccess.dll
+C:\git\FSharpADONETDataAccess\FSharpADONETDataAccess\bin\Debug\FSharpADONETDataAccess.pdb
+C:\git\FSharpADONETDataAccess\FSharpADONETDataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FSharpADONETDataAccess\FSharpADONETDataAccess\obj\Debug\FSharpADONETDataAccess.dll
+C:\git\FSharpADONETDataAccess\FSharpADONETDataAccess\obj\Debug\FSharpADONETDataAccess.pdb
